@@ -4,8 +4,8 @@ This project is a static front-end clone of the Spotify web player, designed to 
 
 🎵 Preview
 The project creates a visually similar layout to the Spotify web interface, featuring a dark theme, a three-column layout, and interactive-looking elements.
-<br>
-![Uploading Screenshot 2025-07-23 at 7.15.38 PM.png…]()
+<img width="1470" height="919" alt="Spotify Photo" src="https://github.com/user-attachments/assets/b69fcd46-f39f-4cbf-a763-b73a90322e04" />
+
 
 
 ✨ Features
